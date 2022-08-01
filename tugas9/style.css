@@ -1,0 +1,22 @@
+img {
+  position: absolute;
+  width: 100%;
+  z-index: -1;
+}
+
+div {
+  float: right;
+  width: 900px;
+  position: relative;
+  background-color: white;
+  margin-top: 10px;
+  text-align: right;
+}
+
+h1 {
+  padding: 10px;
+}
+
+p {
+  padding: 10px;
+}
